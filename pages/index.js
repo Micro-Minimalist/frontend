@@ -25,9 +25,9 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet"></link>
       </Head>
 
-      <main className="font-light text-center text-white font-poppins" style={{ marginTop: "-150px" }}>
+      <main className="font-light text-center text-white font-poppins mt-[-150px]">
         <img src="/cat.gif" className="w-[287px] h-[287px]" />
-        <h1 className="text-2xl" style={{ marginTop: "-34px" }}><strong>Meow!</strong> Coming Soon</h1>
+        <h1 className="text-2xl mt-[-34px]"><strong>Meow!</strong> Coming Soon</h1>
         <p className="mt-5 text-sm">We are Still Working on it</p>
       </main>
       <footer className="absolute inset-x-0 bottom-0 pb-20">
