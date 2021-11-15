@@ -13,7 +13,7 @@ export default function Home() {
         <meta property="og:title" content="Digital Product Design & Development - Micro Minimalist" />
         <meta property="og:description" content="Mobile App (iOS,Android), Website andUI/UX services by innovative & experienced tech team." />
         <meta property="og:image" content="https://microminimalist.com/logo.png" />
-        <meta property="og:url" content="pyaesoneaung.tech" />
+        <meta property="og:url" content="microminimalist.com" />
 
         <meta name="twitter:title" content="Digital Product Design & Development - Micro Minimalist" />
         <meta name="twitter:description" content="Mobile App (iOS,Android), Website andUI/UX services by innovative & experienced tech team." />
